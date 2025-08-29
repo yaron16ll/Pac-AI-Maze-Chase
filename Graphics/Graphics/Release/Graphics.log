@@ -1,0 +1,8 @@
+﻿  CompareNodes.cpp
+  Node.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 395 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Graphics.vcxproj -> C:\Users\oasis\Desktop\BFSAstar\BFS&Astar\Graphics\Release\Graphics.exe
